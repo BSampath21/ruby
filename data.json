@@ -1,0 +1,28 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Manager",
+        "department": "Engineering"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Developer",
+        "department": "Engineering"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "position": "Designer",
+        "department": "Design"
+      }
+    ],
+    "company_info": {
+      "name": "Acme Corporation",
+      "founded_year": 1995,
+      "location": "New York"
+    }
+  }
+  
